@@ -10,3 +10,4 @@ const SignedInLinks = () => {
         </ul>
     )
 }
+export default SignedInLinks
